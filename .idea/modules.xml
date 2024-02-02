@@ -3,8 +3,12 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/comp0034-2.iml" filepath="$PROJECT_DIR$/.idea/comp0034-2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../comp0034-cw1i-try-except-nametaken/.idea/comp0034-cw1i-try-except-nametaken.iml" filepath="$PROJECT_DIR$/../comp0034-cw1i-try-except-nametaken/.idea/comp0034-cw1i-try-except-nametaken.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/comp0034-wk2.iml" filepath="$PROJECT_DIR$/.idea/comp0034-wk2.iml" />
       <module fileurl="file://$PROJECT_DIR$/../comp0034-wk3/.idea/comp0034-wk3.iml" filepath="$PROJECT_DIR$/../comp0034-wk3/.idea/comp0034-wk3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../comp0034-wk4/.idea/comp0034-wk4.iml" filepath="$PROJECT_DIR$/../comp0034-wk4/.idea/comp0034-wk4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../comp0035-cwi-try-except-nametaken/.idea/comp0035-cwi-try-except-nametaken.iml" filepath="$PROJECT_DIR$/../comp0035-cwi-try-except-nametaken/.idea/comp0035-cwi-try-except-nametaken.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../practice/.idea/practice.iml" filepath="$PROJECT_DIR$/../practice/.idea/practice.iml" />
     </modules>
   </component>
 </project>

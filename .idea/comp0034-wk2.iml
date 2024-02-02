@@ -7,5 +7,9 @@
     <orderEntry type="jdk" jdkName="Python 3.11 (comp0034-wk2)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="comp0034-wk3" />
+    <orderEntry type="module" module-name="comp0034-cw1i-try-except-nametaken" />
+    <orderEntry type="module" module-name="comp0034-wk4" />
+    <orderEntry type="module" module-name="practice" />
+    <orderEntry type="module" module-name="comp0035-cwi-try-except-nametaken" />
   </component>
 </module>

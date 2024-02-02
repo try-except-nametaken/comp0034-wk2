@@ -2,6 +2,9 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../comp0034-cw1i-try-except-nametaken" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../comp0034-wk3" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../comp0034-wk4" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../comp0035-cwi-try-except-nametaken" vcs="Git" />
   </component>
 </project>
